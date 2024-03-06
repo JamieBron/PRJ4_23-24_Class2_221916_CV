@@ -6,8 +6,7 @@
 /* Styles for the body */
 
 .myheader {
-	font-family: "Xanh Mono", monospace;
-	font-style: normal;
+
 }
 
 body {
@@ -41,7 +40,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #b2b6a4;
 }
 
 .biography-details li, .skill-list li {
